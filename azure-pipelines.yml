@@ -19,3 +19,8 @@ steps:
     npm install
     npm run build
   displayName: 'npm install and build update'
+
+- script: |
+    echo "new step added"
+    echo "2nd echo"
+  displayName: 'new step'
