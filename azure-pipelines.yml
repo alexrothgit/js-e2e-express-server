@@ -24,3 +24,11 @@ steps:
     echo "new step added"
     echo "2nd echo"
   displayName: 'new step'
+
+- script: |
+     npm run test
+  displayName: 'new step: TEST run '
+
+- script: |
+     npm run start
+  displayName: 'new step: npm run start'
