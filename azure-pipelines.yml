@@ -31,4 +31,4 @@ steps:
 
 - script: |
   npm run lint
-  displayName: 'new step: lint'
+  displayName: 'new step: lint '
