@@ -30,5 +30,5 @@ steps:
   displayName: 'new step: TEST run '
 
 - script: |
-  npm run start:dev
+  npm run start\:dev
   displayName: 'new step: npm run start'
