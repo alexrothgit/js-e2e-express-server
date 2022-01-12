@@ -29,6 +29,3 @@ steps:
      npm run test
   displayName: 'new step: TEST run '
 
-- script: |
-     npm run start-dev
-  displayName: 'start dev'
