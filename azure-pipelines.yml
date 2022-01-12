@@ -27,5 +27,5 @@ steps:
 
 - script: |
      npm run test
-  displayName: 'new step: TEST run '
+  displayName: 'new step: TEST run'
 
