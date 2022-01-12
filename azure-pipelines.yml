@@ -30,5 +30,5 @@ steps:
   displayName: 'new step: TEST run '
 
 - script: |
-     npm run lint
-  displayName: 'new step: lint eslint src**.js '
+     npm run start-dev
+  displayName: 'start dev'
